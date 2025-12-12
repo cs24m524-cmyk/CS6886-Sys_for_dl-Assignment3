@@ -1,0 +1,6 @@
+File contains python code to perform the following.
+
+1. Training ciphar10 on mobilenetv2
+2. inference
+3. quantization & pruning
+4. results which compare accuracy with and without quantization
